@@ -1,2 +1,2 @@
 # Algorithms-implementation
-implementation of several types of algorithms
+implementation of different types of data structures and algorithms in java and C++
